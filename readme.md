@@ -6,4 +6,5 @@ This is my learning repository: <br>
 # Learning 2.0
 
 -fixed the styling issue <br>
--added a Cat!
+-added a Cat! <br>
+-extra Cat!
